@@ -42,8 +42,8 @@ body {
     align-items: center;
     font-family: "Playwrite AU VIC", cursive;
     font-weight: 800;
-    width: 100%; /* Ocupa todo el ancho disponible */
-    box-sizing: border-box; /* Incluye el padding en el ancho total */
+    width: 100%;
+    box-sizing: border-box; 
 }
 
 .menu-lateral ul {
